@@ -23,21 +23,23 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+Acreditamos que esse tema seja de suma importância para as pessoas com deficiência, pois o processo de habilitação e de reabilitação tem por objetivo o desenvolvimento de potencialidades, talentos, habilidades e aptidões físicas, cognitivas, sensoriais, psicossociais, atitudinais, profissionais e artísticas que contribuam para a conquista da autonomia da pessoa com deficiência e de sua ampla participação social. Todos ganham com essa melhoria na qualidade de vida da pessoa com deficiência, incluindo a própria pessoa e seus familiares.
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+A título de conhecimento apresentaremos agora a maneira como as deficiências são divididas. São elas, deficiência física, visual, auditiva, intelectual, psicossocial e a deficiência múltipla, conceituada como a associação de duas ou mais deficiências.
+
+Há vários tipos de deficiência física: paraplegia, paraparesia, monoplegia, monoparesia, tetraplegia, tetraparesia, triplegia, triparesia, hemiplegia, hemiparesia, ostomia, amputação ou ausência de membro, paralisia cerebral, nanismo, membros com deformidade congênita ou adquirida.
+
+O Brasil possui mais de 45 milhões de pessoas com algum tipo de deficiência, o que representa 23,92% da população. Deste total, mais de 13 milhões são deficientes físicos.
+
+Dessa forma, conclui-se que a temática é de grande importância e deve ser trabalhada a fim do desenvolvimento de uma sociedade mais inclusiva e preparada para as demandas dos cidadãos.
+
 
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - [O Brasil possui mais de 45 milhões de pessoas com algum tipo de deficiência](https://bvsms.saude.gov.br/11-10-dia-da-pessoa-com-deficiencia-fisica/#:~:text=O%20Brasil%20possui%20mais%20de,13%20milh%C3%B5es%20s%C3%A3o%20deficientes%20f%C3%ADsicos)
+> - [Reabilitação de pessoas com deficiência](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-com-deficiencia#:~:text=A%20habilita%C3%A7%C3%A3o%2Freabilita%C3%A7%C3%A3o%20da%20pessoa,aptid%C3%B5es%20f%C3%ADsicas%2C%20cognitivas%2C%20sensoriais%2C)
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público alvo são pacientes de qualquer idade, com qualquer tipo de deficiência física atendidos pela Adefip. Associação que oferece atendimento gratuito a moradores de Poços de Caldas e região. Possui uma equipe composta por fisioterapeutas, terapeutas ocupacionais, fonoaudiólogos, pedagogos, psicopedagogos, psicólogos, assistentes sociais, educadores físicos, médico fisiatra, enfermeira e musico terapeuta.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
