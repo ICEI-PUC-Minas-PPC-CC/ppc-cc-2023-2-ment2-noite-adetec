@@ -3,9 +3,13 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+Fazer exercícios para estimular a cognição de pessoas com alguma deficiência com frequência trouxeram alguns problemas à tona. A dificuldade em prender a atenção desses pacientes foi se tornando um problema cada vez maior e, a alta frequência e necessidade de criação de mais exercícios, com o tempo, ocasionou a escassez de variações para esses exercícios também.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Muitas vezes esses pacientes possuem muita dificuldade em manter o foco em uma atividade de tempo longo ou considerada "chata" ou "entediante" ao longo do tempo exercendo essa determinada atividade.
+
+Por isso, variar e entreter essas atividades de forma adequada é um problema diário desses profissionais que cuidam e ensinam esses pacientes.
+
+Pacientes com quadros diferentes reagem de forma diferente ao se deparar com uma atividade ou exercício, entretanto, outro problema é minimizar a chance de algum paciente não se dar bem ou se negar a fazer a atividade.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
