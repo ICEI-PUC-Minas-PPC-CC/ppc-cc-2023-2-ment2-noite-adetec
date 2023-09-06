@@ -1,7 +1,6 @@
 # Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-
+//ideia by: gabriel to: brenda
+Nós do Grupo ADETEC acreditamos que, por mais que tenha sido penoso escolher apenas um projeto na disciplina de mentoring, nossa decisão de trabalhar junto a uma instituição tão nobre e tradicional quanto a ADEFIP foi a correta.//
 ## Problema
 Fazer exercícios para estimular a cognição de pessoas com alguma deficiência com frequência trouxeram alguns problemas à tona. A dificuldade em prender a atenção desses pacientes foi se tornando um problema cada vez maior e, a alta frequência e necessidade de criação de mais exercícios, com o tempo, ocasionou a escassez de variações para esses exercícios também.
 
@@ -17,10 +16,15 @@ Pacientes com quadros diferentes reagem de forma diferente ao se deparar com uma
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Nosso objetivo principal com esta parceria será proporcionar um aprimoramento no projeto da mesa de estímulo audiovisual finalizado em julho de 2023 por meio de um software na linguagem de nivel apropriado que atenderá as seguintes necessidades que serão apresentadas mais detalhadamente pela ADEFIP em uma próxima reunião:
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+.Abrangência para mais profissionais da área da saúde;
+.Melhoria na captação de dados sobre os resultados no uso da mesa e a evolução do paciente;
+.Aumento na possibilidade de integração do hardware mesa com outros hardwares externos;
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Acreditamos que atendendo essas necessidades com nossa aplicação estaremos aprimorando a experiências de aprendizado nas áreas visuais e psicomotoras.
+
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
