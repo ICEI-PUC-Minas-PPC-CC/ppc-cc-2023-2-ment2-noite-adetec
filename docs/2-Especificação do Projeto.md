@@ -60,8 +60,8 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| O sistema deve ter o mínimo de botões possível | MÉDIA | 
-|RNF-003| o sistema deve ser simples, fácil e coeso para permitir que qualquer usuário consiga configurá-lo corretamente |  BAIXA | 
+|RNF-002| O sistema deve ter o mínimo de botões possível | ALTA | 
+|RNF-003| o sistema deve ser simples, fácil e coeso para permitir que qualquer usuário consiga configurá-lo corretamente |  ALTA | 
 
 
 
