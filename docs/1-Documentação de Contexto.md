@@ -1,9 +1,9 @@
 # Introdução
 A promoção da cognição em pessoas com deficiência é uma questão complexa e desafiadora. A necessidade de criar exercícios variados e envolventes, ao mesmo tempo em que se mantém o interesse e a participação dos pacientes, é crucial. Este trabalho se concentra em abordar esse desafio, com o objetivo de melhorar a qualidade de vida das pessoas com deficiência.
 
-Serão exploradas estratégias para tornar as atividades cognitivas mais atrativas e eficazes, considerando a diversidade de respostas individuais. Além disso, discutiremos a importância desse tema em um contexto onde mais de 45 milhões de brasileiros enfrentam algum tipo de deficiência. Nosso público-alvo são os pacientes atendidos pela Adefip, uma associação comprometida em oferecer suporte e reabilitação.
+Serão exploradas estratégias para tornar as atividades cognitivas mais atrativas e eficazes, considerando a diversidade de respostas individuais. Além disso, será discutido a importância desse tema em um contexto onde mais de 45 milhões de brasileiros enfrentam algum tipo de deficiência. O público-alvo são os pacientes atendidos pela Adefip, uma associação comprometida em oferecer suporte e reabilitação.
 
-Neste trabalho, será apresentado objetivos claros e uma justificativa sólida para nossa pesquisa, destacando a relevância desse esforço contínuo para uma sociedade mais inclusiva e preparada para atender às necessidades de todos os cidadãos.
+Neste trabalho, será apresentado objetivos claros e uma justificativa sólida para  a pesquisa do mesmo, destacando a relevância desse esforço contínuo para uma sociedade mais inclusiva e preparada para atender às necessidades de todos os cidadãos.
 
 ## Problema
 Fazer exercícios para estimular a cognição de pessoas com alguma deficiência com frequência trouxeram alguns problemas à tona. A dificuldade em prender a atenção desses pacientes foi se tornando um problema cada vez maior e, a alta frequência e necessidade de criação de mais exercícios, com o tempo, ocasionou a escassez de variações para esses exercícios também.
