@@ -1,5 +1,5 @@
 # Introdução
-A promoção da cognição em pessoas com deficiência é uma questão complexa e desafiadora. A necessidade de criar exercícios variados e envolventes, ao mesmo tempo em que se mantém o interesse e a participação dos pacientes, é crucial. Este trabalho se concentra em abordar esse desafio, com o objetivo de melhorar a qualidade de vida das pessoas com deficiência.
+aaA promoção da cognição em pessoas com deficiência é uma questão complexa e desafiadora. A necessidade de criar exercícios variados e envolventes, ao mesmo tempo em que se mantém o interesse e a participação dos pacientes, é crucial. Este trabalho se concentra em abordar esse desafio, com o objetivo de melhorar a qualidade de vida das pessoas com deficiência.
 
 Serão exploradas estratégias para tornar as atividades cognitivas mais atrativas e eficazes, considerando a diversidade de respostas individuais. Além disso, será discutido a importância desse tema em um contexto onde mais de 45 milhões de brasileiros enfrentam algum tipo de deficiência. O público-alvo são os pacientes atendidos pela Adefip, uma associação comprometida em oferecer suporte e reabilitação.
 
