@@ -10,7 +10,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Maria de Lurdes(mãe)**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora.       |**Atribuições:** Cuidar de crianças de 5 anos. 
+<img src="" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora.       |**Atribuições:** Cuidar de crianças de 5 anos. 
 |**Motivações:** Cuidar e apoiar sua filha com amor e dedicação.
 Garantir que sua filha tenha acesso a cuidados médicos e terapias necessárias.
 Incentivar a independência de sua filha, adaptando o ambiente para facilitar sua mobilidade.
@@ -24,17 +24,16 @@ Maria também encontrou apoio em grupos de pais de crianças com deficiência, o
 
 |**Carol(Fisioterapeuta)**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Fisioterapeuta.       |**Atribuições:** Cuidar de crianças de 5 anos. 
-|**Motivações:** Cuidar e apoiar sua filha com amor e dedicação.
-Garantir que sua filha tenha acesso a cuidados médicos e terapias necessárias.
-Incentivar a independência de sua filha, adaptando o ambiente para facilitar sua mobilidade.
-Participar de grupos de apoio para compartilhar experiências e aprender mais sobre como ajudar sua filha.  |**Frustações:** Dificuldades financeiras para custear tratamentos médicos e terapias.
-Sentimento de isolamento social, pois às vezes é difícil encontrar atividades que sua filha possa participar.
-Preocupação constante com o futuro e a independência de sua filha.
-Desafios em encontrar profissionais de saúde qualificados e compreensivos para atender às necessidades de sua filha.  |**Hobbies, história:** Apesar das dificuldades financeiras para custear tratamentos médicos e terapias, Maria sempre se esforçou para garantir que sua filha tivesse acesso aos melhores cuidados possíveis. Ela adaptou o ambiente de sua casa para facilitar a mobilidade de sua filha e incentivou sua independência.
-
-Maria também encontrou apoio em grupos de pais de crianças com deficiência, onde compartilhou suas experiências e aprendeu mais sobre como ajudar sua filha. Embora tenha enfrentado momentos de isolamento social e preocupação constante com o futuro de sua filha, Maria continua a ser uma mãe dedicada, professora comprometida e uma inspiração para sua família.
-
+<img src="" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Fisioterapeuta.       |**Atribuições:** Cuidar de crianças de 5 a 12 anos com deficiencia . 
+|**Motivações:** Exercer o conhecimento adquirido na faculdade para dar qualidade de aos pacientes.
+Assegurar os tratamentos mais modernos e credibilizados na medicina para seus pacientes.
+Incentivar o network com profissionais da área para troca de relatos, tratamentos e boas práticas.
+Criar parcerias com outras empresas e áreas médicas para oferecer um atendimento 360° aos pacientes.  |**Frustações:** Dificuldades de apoios governamentais para custear suas pesquisas e tratamentos.
+Relatos de profissionais da área que trabalham na profissão mas que não tem a resiliência para estar na área.
+ |**Hobbies, história:** Participar de congressos;
+ Dar aula na faculdade;
+ Praticar esportes para manter sua qualidade de vida.
+ 
 |**Ana(Paciente)**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 17 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       
