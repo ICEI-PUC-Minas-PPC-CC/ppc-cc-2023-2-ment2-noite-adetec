@@ -1,8 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
 
 ## Personas
 
@@ -34,25 +31,11 @@ Relatos de profissionais da área que trabalham na profissão mas que não tem a
 |**Motivações:** Superar o preconceito das pessoas e seguir a Palavra de Deus (Bíblia).
 |**Hobbies, história:** Ana, uma adolescente com deficiência visual, é um exemplo de determinação e paixão. Apesar de sua cegueira desde o nascimento, ela se destacou como música talentosa, aprendendo a tocar violão em Braille. Além disso, Ana era uma entusiasta da tecnologia assistiva, criando aplicativos acessíveis, e explorava a natureza usando seus outros sentidos. Sua história inspiradora destaca como a resiliência e a paixão podem superar desafios e enriquecer a vida.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
 
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
