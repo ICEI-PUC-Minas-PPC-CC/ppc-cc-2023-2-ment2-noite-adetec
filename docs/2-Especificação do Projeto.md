@@ -6,12 +6,20 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
 
-|**Camila Fiães**|           |                             | 
+
+|**Maria de Lurdes(mãe)**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora.       |**Atribuições:** Cuidar de crianças de 5 anos. 
+|**Motivações:** Cuidar e apoiar sua filha com amor e dedicação.
+Garantir que sua filha tenha acesso a cuidados médicos e terapias necessárias.
+Incentivar a independência de sua filha, adaptando o ambiente para facilitar sua mobilidade.
+Participar de grupos de apoio para compartilhar experiências e aprender mais sobre como ajudar sua filha.  |**Frustações:** Dificuldades financeiras para custear tratamentos médicos e terapias.
+Sentimento de isolamento social, pois às vezes é difícil encontrar atividades que sua filha possa participar.
+Preocupação constante com o futuro e a independência de sua filha.
+Desafios em encontrar profissionais de saúde qualificados e compreensivos para atender às necessidades de sua filha.  |**Hobbies, história:** Apesar das dificuldades financeiras para custear tratamentos médicos e terapias, Maria sempre se esforçou para garantir que sua filha tivesse acesso aos melhores cuidados possíveis. Ela adaptou o ambiente de sua casa para facilitar a mobilidade de sua filha e incentivou sua independência.
+
+Maria também encontrou apoio em grupos de pais de crianças com deficiência, onde compartilhou suas experiências e aprendeu mais sobre como ajudar sua filha. Embora tenha enfrentado momentos de isolamento social e preocupação constante com o futuro de sua filha, Maria continua a ser uma mãe dedicada, professora comprometida e uma inspiração para sua família.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
