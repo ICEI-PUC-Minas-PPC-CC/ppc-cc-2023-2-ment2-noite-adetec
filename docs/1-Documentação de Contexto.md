@@ -20,13 +20,13 @@ Pacientes com quadros diferentes reagem de forma diferente ao se deparar com uma
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
-Nosso objetivo principal com esta parceria será proporcionar um aprimoramento no projeto da mesa de estímulo audiovisual finalizado em julho de 2023 por meio de um software na linguagem de nivel apropriado que atenderá as seguintes necessidades que serão apresentadas mais detalhadamente pela ADEFIP em uma próxima reunião:
+O objetivo principal com esta parceria será proporcionar um aprimoramento no projeto da mesa de estímulo audiovisual finalizado em julho de 2023 por meio de um software na linguagem de nivel apropriado que atenderá as seguintes necessidades que serão apresentadas mais detalhadamente pela ADEFIP em uma próxima reunião:
 
 .Abrangência para mais profissionais da área da saúde;
 .Melhoria na captação de dados sobre os resultados no uso da mesa e a evolução do paciente;
 .Aumento na possibilidade de integração do hardware mesa com outros hardwares externos;
 
-Acreditamos que atendendo essas necessidades com nossa aplicação estaremos aprimorando a experiências de aprendizado nas áreas visuais e psicomotoras.
+Acredita-se que atendendo essas necessidades com nossa aplicação estaremos aprimorando a experiência de aprendizado nas áreas visuais e psicomotoras.
 
 
  
@@ -35,9 +35,9 @@ Acreditamos que atendendo essas necessidades com nossa aplicação estaremos apr
 
 ## Justificativa
 
-Acreditamos que esse tema seja de suma importância para as pessoas com deficiência, pois o processo de habilitação e de reabilitação tem por objetivo o desenvolvimento de potencialidades, talentos, habilidades e aptidões físicas, cognitivas, sensoriais, psicossociais, atitudinais, profissionais e artísticas que contribuam para a conquista da autonomia da pessoa com deficiência e de sua ampla participação social. Todos ganham com essa melhoria na qualidade de vida da pessoa com deficiência, incluindo a própria pessoa e seus familiares.
+Acredita-se que esse tema seja de suma importância para as pessoas com deficiência, pois o processo de habilitação e de reabilitação tem por objetivo o desenvolvimento de potencialidades, talentos, habilidades e aptidões físicas, cognitivas, sensoriais, psicossociais, atitudinais, profissionais e artísticas que contribuam para a conquista da autonomia da pessoa com deficiência e de sua ampla participação social. Todos ganham com essa melhoria na qualidade de vida da pessoa com deficiência, incluindo a própria pessoa e seus familiares.
 
-A título de conhecimento apresentaremos agora a maneira como as deficiências são divididas. São elas, deficiência física, visual, auditiva, intelectual, psicossocial e a deficiência múltipla, conceituada como a associação de duas ou mais deficiências.
+A título de conhecimento será apresentada agora a maneira como as deficiências são divididas. São elas, deficiência física, visual, auditiva, intelectual, psicossocial e a deficiência múltipla, conceituada como a associação de duas ou mais deficiências.
 
 Há vários tipos de deficiência física: paraplegia, paraparesia, monoplegia, monoparesia, tetraplegia, tetraparesia, triplegia, triparesia, hemiplegia, hemiparesia, ostomia, amputação ou ausência de membro, paralisia cerebral, nanismo, membros com deformidade congênita ou adquirida.
 
