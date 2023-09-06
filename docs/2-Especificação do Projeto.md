@@ -10,7 +10,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |**Maria de Lurdes(mãe)**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora.       |**Atribuições:** Cuidar de crianças de 5 anos. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/baixados%20(1).jfif" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora.       |**Atribuições:** Cuidar de crianças de 5 anos. 
 |**Motivações:** Cuidar e apoiar sua filha com amor e dedicação.
 Garantir que sua filha tenha acesso a cuidados médicos e terapias necessárias.
 Incentivar a independência de sua filha, adaptando o ambiente para facilitar sua mobilidade.
@@ -24,7 +24,7 @@ Maria também encontrou apoio em grupos de pais de crianças com deficiência, o
 
 |**Carol(Fisioterapeuta)**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Fisioterapeuta.       |**Atribuições:** Cuidar de crianças de 5 a 12 anos com deficiencia . 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/baixados.jfif" height="200"/>|**Idade:** 32 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Fisioterapeuta.       |**Atribuições:** Cuidar de crianças de 5 a 12 anos com deficiencia . 
 |**Motivações:** Exercer o conhecimento adquirido na faculdade para dar qualidade de aos pacientes.
 Assegurar os tratamentos mais modernos e credibilizados na medicina para seus pacientes.
 Incentivar o network com profissionais da área para troca de relatos, tratamentos e boas práticas.
