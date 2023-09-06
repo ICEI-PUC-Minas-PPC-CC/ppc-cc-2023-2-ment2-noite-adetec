@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-ddDefinição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
+Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
 
 ## Personas
 
@@ -35,6 +35,12 @@ Desafios em encontrar profissionais de saúde qualificados e compreensivos para 
 
 Maria também encontrou apoio em grupos de pais de crianças com deficiência, onde compartilhou suas experiências e aprendeu mais sobre como ajudar sua filha. Embora tenha enfrentado momentos de isolamento social e preocupação constante com o futuro de sua filha, Maria continua a ser uma mãe dedicada, professora comprometida e uma inspiração para sua família.
 
+|**Ana(Paciente)**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 17 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       
+|**Atribuições:** Deficiente Visual.
+|**Motivações:** Superar o preconceito das pessoas e seguir a Palavra de Deus (Bíblia).
+|**Hobbies, história:** Ana, uma adolescente com deficiência visual, é um exemplo de determinação e paixão. Apesar de sua cegueira desde o nascimento, ela se destacou como música talentosa, aprendendo a tocar violão em Braille. Além disso, Ana era uma entusiasta da tecnologia assistiva, criando aplicativos acessíveis, e explorava a natureza usando seus outros sentidos. Sua história inspiradora destaca como a resiliência e a paixão podem superar desafios e enriquecer a vida.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
@@ -58,8 +64,8 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Ana | Atendimento especializado para as dificuldades que ela enfrenta devido a sua deficiência |  Superar o preconceito das pessoas e seguir a Palavra de Deus (Bíblia). |
+|Maria de Lurdes | Garantir que sua filha tenha acesso a cuidados médicos e terapias necessárias. Incentivar a independência de sua filha, adaptando o ambiente para facilitar sua mobilidade. |  Cuidar e apoiar sua filha com amor e dedicação. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
