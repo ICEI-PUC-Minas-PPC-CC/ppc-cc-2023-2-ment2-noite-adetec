@@ -53,8 +53,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
+|RF-001| O sistema deverá apresentar um menu de configuração do jogo e um botão iniciar | ALTA | 
+|RF-002| O sistema deverá permitir que o usuário modifique a forma com que o jogo funcionará (quantidade de cores, quantidade de vezes que a luz acenderá, etc.) | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -62,7 +62,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
+|RNF-002| O sistema deve ter o mínimo de botões possível | MÉDIA | 
+|RNF-003| o sistema deve ser simples, fácil e coeso para permitir que qualquer usuário consiga configurá-lo corretamente |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
