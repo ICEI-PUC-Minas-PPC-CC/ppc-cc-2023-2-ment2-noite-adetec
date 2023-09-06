@@ -11,14 +11,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 |**Maria de Lurdes(mãe)**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/baixados%20(1).jfif" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora.       |**Atribuições:** Cuidar de crianças de 5 anos. 
-|**Motivações:** Cuidar e apoiar sua filha com amor e dedicação.
-Garantir que sua filha tenha acesso a cuidados médicos e terapias necessárias.
-Incentivar a independência de sua filha, adaptando o ambiente para facilitar sua mobilidade.
-Participar de grupos de apoio para compartilhar experiências e aprender mais sobre como ajudar sua filha.  |**Frustações:** Dificuldades financeiras para custear tratamentos médicos e terapias.
-Sentimento de isolamento social, pois às vezes é difícil encontrar atividades que sua filha possa participar.
-Preocupação constante com o futuro e a independência de sua filha.
-Desafios em encontrar profissionais de saúde qualificados e compreensivos para atender às necessidades de sua filha.  |**Hobbies, história:** Apesar das dificuldades financeiras para custear tratamentos médicos e terapias, Maria sempre se esforçou para garantir que sua filha tivesse acesso aos melhores cuidados possíveis. Ela adaptou o ambiente de sua casa para facilitar a mobilidade de sua filha e incentivou sua independência.
-
+|**Motivações:** Cuidar e apoiar sua filha com amor e dedicação. Garantir que sua filha tenha acesso a cuidados médicos e terapias necessárias. Incentivar a independência de sua filha, adaptando o ambiente para facilitar sua mobilidade. Participar de grupos de apoio para compartilhar experiências e aprender mais sobre como ajudar sua filha.  |**Frustações:** Dificuldades financeiras para custear tratamentos médicos e terapias. Sentimento de isolamento social, pois às vezes é difícil encontrar atividades que sua filha possa participar. Preocupação constante com o futuro e a independência de sua filha. Desafios em encontrar profissionais de saúde qualificados e compreensivos para atender às necessidades de sua filha.  |**Hobbies, história:** Apesar das dificuldades financeiras para custear tratamentos médicos e terapias, Maria sempre se esforçou para garantir que sua filha tivesse acesso aos melhores cuidados possíveis. Ela adaptou o ambiente de sua casa para facilitar a mobilidade de sua filha e incentivou sua independência.
 Maria também encontrou apoio em grupos de pais de crianças com deficiência, onde compartilhou suas experiências e aprendeu mais sobre como ajudar sua filha. Embora tenha enfrentado momentos de isolamento social e preocupação constante com o futuro de sua filha, Maria continua a ser uma mãe dedicada, professora comprometida e uma inspiração para sua família.
 
 
