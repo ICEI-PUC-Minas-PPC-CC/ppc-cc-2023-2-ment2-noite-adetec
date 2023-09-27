@@ -14,4 +14,8 @@ Exemplos de referências:
 > - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+>
+> - https://bvsms.saude.gov.br/11-10-dia-da-pessoa-com-deficiencia-fisica/#:~:text=O%20Brasil%20possui%20mais%20de,13%20milh%C3%B5es%20s%C3%A3o%20deficientes%20f%C3%ADsicos
+>
+> - https://bvsms.saude.gov.br/11-10-dia-da-pessoa-com-deficiencia-fisica/#:~:text=O%20Brasil%20possui%20mais%20de,13%20milh%C3%B5es%20s%C3%A3o%20deficientes%20f%C3%ADsicos
 
