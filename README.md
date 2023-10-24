@@ -6,10 +6,10 @@
 
 ## Integrantes
 
-- Brenda Tristão
-- Gabriel do Lago
+- Brenda Caroline Tristão
+- Gabriel Alencar do Lago
 - Letícia Vicente Teodoro
-- Matheus Piza
+- Matheus Piza Batiston
 
 ## Professor
 
