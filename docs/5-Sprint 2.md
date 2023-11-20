@@ -31,3 +31,7 @@ Para esta etapa, o grupo decidiu criar arquivos separados na página inicial do 
 
 **1°)** Código atualizado da mesa (versões 2 e 3, respectivamente, dias 17/11 e 21/11);
 
+**2°)** Arquivo com imagens da idealização da mesa;
+
+
+
