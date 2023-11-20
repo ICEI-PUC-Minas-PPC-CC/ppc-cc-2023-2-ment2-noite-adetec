@@ -1,7 +1,33 @@
 # Sprint 2
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 2.
+O projeto da mesa adaptada para a ADEFIP, agora integrando o estimulante Jogo dos Gênios, passou por uma significativa evolução desde sua versão inicial mais básica. Inicialmente concebido para proporcionar uma experiência inclusiva e lúdica aos membros da instituição, com especial atenção àqueles com limitações físicas, o projeto visa não apenas o entretenimento acessível, mas também a promoção do desenvolvimento cognitivo e social dos participantes.
 
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
+**Objetivo Inicial:**
 
-Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista de presença, vídeos etc) deverá ser incluído nesta etapa. Nesta etapa, também deverão ser apresentadas as percepções do grupo com relação à prática extensionista desenvolvida respondendo questões como: o objetivo inicial foi alcançado? quais foram as principais dificuldades enfrentadas pelo grupo? que mudanças poderiam ser realizadas que tornaria o processo mais eficiente? Entre outras...
+O sucesso na implementação do projeto inicial pode ser evidenciado pela efetiva adaptação da mesa. Com um design inicialmente básico, a mesa proporcionou suporte ergonômico e acessibilidade para pessoas com diferentes necessidades físicas, permitindo sua participação no Jogo dos Gênios. Esta inclusão inicial já se mostrou valiosa, promovendo momentos de diversão e interação entre os participantes.
+
+**Desafios e Mudanças na Versão Básica:**
+
+Na versão inicial, algumas limitações foram identificadas, destacando a necessidade de ajustes e aprimoramentos:
+
+1. Integração Limitada: A versão anterior enfrentou desafios na integração tecnológica, e então foram propostas novas ideias a fim de um melhoramento da mesa de maneira que atendesse melhor as demandas do público-alvo.
+
+2. Simplicidade nas Características Ergonômicas: A ergonomia da mesa era básica, e certos ajustes eram necessários para garantir o conforto e facilidade de uso para todos os participantes.
+
+**Aprimoramentos na Versão Atual:**
+
+A versão atual da mesa adaptada representa uma evolução significativa, com a implementação de melhorias notáveis:
+
+1. Inovação Tecnológica: Investiu-se em tecnologias arduino para que se tornasse possivel a integração do Jogo dos Gênios, garantindo uma experiência mais fluida e acessível.
+
+2. Ergonomia Aperfeiçoada: A mesa passou por ajustes ergonômicos aprimorados, visando proporcionar maior conforto e adaptabilidade aos diferentes usuários.
+
+3. Feedback: Antes do início do aprimoramento da mesa foram feitas visitas na ADEFIP visando um feedback, permitindo ajustes dinâmicos e personalizados de acordo com as necessidades específicas da comunidade atendida.
+
+Em conclusão, a evolução do projeto da mesa adaptada para a ADEFIP, agora integrando o Jogo dos Gênios, representa um comprometimento contínuo com a inclusão e acessibilidade. Ao superar os desafios iniciais e implementar melhorias significativas, o projeto continua a moldar um ambiente inclusivo e enriquecedor para todos os participantes.
+
+
+Para esta etapa, o grupo decidiu criar arquivos separados na página inicial do projeto. Entre eles pode-se citar:
+
+**1°)** Código atualizado da mesa (versões 2 e 3, respectivamente, dias 17/11 e 21/11);
+
