@@ -49,4 +49,6 @@ Para esta etapa, o grupo decidiu criar arquivos separados na página inicial do 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.23%20(3).jpeg" width="300" height="500">
 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.23.jpeg" width="300" height="500">
+
+<video><source src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Video%202023-11-28%20at%2021.23.18.mp4" type"video/mp4"> </video>
 </p>
