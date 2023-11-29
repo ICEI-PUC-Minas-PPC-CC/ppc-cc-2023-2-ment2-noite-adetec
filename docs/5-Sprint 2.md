@@ -31,5 +31,6 @@ Para esta etapa, o grupo decidiu criar arquivos separados na página inicial do 
 
 **1°)** Código atualizado da mesa (versões 2 e 3, respectivamente, dias 17/11 e 21/11);
 
-**2°)** Arquivo com imagens da idealização da mesa (download do arquivo através do Google Drive: https://drive.google.com/file/d/10A1G7wo6n90XoeOcGNGB7LxsN05Vpcdp/view?usp=drive_link) ;
+**2°)** Arquivo com imagens da idealização da mesa:
+![Imagem 1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-20%20at%2012.53.31%20(1).jpeg)
 
