@@ -33,8 +33,19 @@ Para esta etapa, o grupo decidiu criar arquivos separados na página inicial do 
 
 **2°)** Imagens da idealização da mesa:
 
-Imagem 1
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-20%20at%2012.53.31%20(1).jpeg"  width="300" height="300">
-Imagem 2
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-20%20at%2012.53.31%20(2).jpeg" width="300" height="300">
 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-20%20at%2012.53.31%20(1).jpeg"  width="300" height="500">
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.14.jpeg" width="300" height="500">
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.18%20(1).jpeg" width="300" height="500">
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.18.jpeg" width="300" height="500">
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.23%20(1).jpeg" width="300" height="500">
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.23%20(2).jpeg" width="300" height="500">
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.23%20(3).jpeg" width="300" height="500">
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.23.jpeg" width="300" height="500">
