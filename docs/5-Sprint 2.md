@@ -49,10 +49,6 @@ Para esta etapa, o grupo decidiu criar arquivos separados na página inicial do 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.23%20(3).jpeg" width="300" height="500">
 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-adetec/blob/main/docs/img/WhatsApp%20Image%202023-11-28%20at%2021.20.23.jpeg" width="300" height="500">
-
-<video width="320" height="240" controls="controls" autoplay="autoplay">
-<source src="https://youtube.com/shorts/7nYfx4zPkis?feature=share" type="video/mp4">
-<object data="" width="320" height="240">
-<embed width="320" height="240" src="https://youtube.com/shorts/7nYfx4zPkis?feature=share">
-</object>
 </p>
+
+Link para vídeo da Sprint 2 no YouTube: https://youtube.com/shorts/7nYfx4zPkis?feature=share
