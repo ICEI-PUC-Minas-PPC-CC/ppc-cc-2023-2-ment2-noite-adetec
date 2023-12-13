@@ -1,3 +1,4 @@
 # Apresentação da Solução
+https://www.canva.com/design/DAF0uVI_EcE/4REnwCxJvOjK4lJDYANx6A/edit?utm_content=DAF0uVI_EcE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+Upload do video feita pasta da presentation.
