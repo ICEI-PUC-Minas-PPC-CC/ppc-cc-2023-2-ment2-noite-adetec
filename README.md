@@ -33,5 +33,5 @@
 <li><a href="src/README.md"> Código Fonte</a></li>
 
 Link -   ENTREGA - Entrevista TV Poços -> https://www.facebook.com/share/v/1FTW92UjBd/?mibextid=wwXIfr
-Link -   ENTREGA - Entrevista TV Plan -> https://www.instagram.com/reel/DJppEskJiRu/?igsh=Nmh5cDNoZXU5Y2Zr
+Link -   ENTREGA - Entrevista TVPlan -> https://www.instagram.com/reel/DJppEskJiRu/?igsh=Nmh5cDNoZXU5Y2Zr
 
