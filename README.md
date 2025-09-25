@@ -33,6 +33,9 @@
 <li><a href="src/README.md"> Código Fonte</a></li>
 
 Link -   ENTREGA - Entrevista TV Poços -> https://www.facebook.com/share/v/1FTW92UjBd/?mibextid=wwXIfr
-Link -   ENTREGA - Entrevista TVPlan -> https://www.instagram.com/reel/DJppEskJiRu/?igsh=Nmh5cDNoZXU5Y2Zr
+Link -   ENTREGA - Entrevista TV Plan -> https://www.instagram.com/reel/DJppEskJiRu/?igsh=Nmh5cDNoZXU5Y2Zr
 Link -   ENTREGA - Entrevista TV ADEFIP -> https://www.facebook.com/share/v/19PSE6qRu2/
+Link -   ENTREGA - Reportagem Site da ADEFIP -> https://www.adefip.org.br/post/puc-minas-doa-nova-mesa-de-est%C3%ADmulo-visual-%C3%A0-adefip-e-refor%C3%A7a-compromisso-com-a-inclus%C3%A3o
+Link -   ENTREGA - Reportagem Rádio Notícia -> https://radionoticia.fm.br/client-noticia/puc-minas-pocos-de-caldas-promove-doacao-mesa-estimulo-visual-para-adefip
+Link -   ENTREGA - Reportagem Instagram ADEFIP -> https://www.instagram.com/adefip/reel/DJ4lW63tKzi/
 
